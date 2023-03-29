@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://enchanting-clafoutis-576e3d.netlify.app/]
+- Live Site URL: [https://github.com/MadsenBK/frontendMentor-0003_interactiveRatingComponent]
 
 ## My process
 
